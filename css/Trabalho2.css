@@ -1,0 +1,52 @@
+.titulo{
+text-align:center;
+background-image: url(../img/sobre-background.jpg);
+margin-left: auto;
+margin-right: auto;
+padding: 5px;
+width: 940px;
+}
+
+.h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p{
+color: #E13C03;
+font-family: "Times New Roman", Times, serif;
+margin-left: auto;
+}
+
+body {
+background-color: #BAE8FF;
+margin-left: auto;
+margin-right: auto;
+width: 940px;
+font-family: times new roman;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+}
+
+img {
+width: 30%;
+height: 30%;
+margin-top: 30px;
+border-radius:50%;
+}
+
+figure {
+padding: 25px;
+border: 2px solid black;
+background-color: #AFA19B;
+text-align: right;
+border-radius:50%;
+}
+figcaption {
+font-style: Times New Roman;
+margin-top: 5 px;
+text-align: auto;
+}
